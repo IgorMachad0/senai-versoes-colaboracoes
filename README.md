@@ -8,4 +8,5 @@ entre outros).
 
 Por padrão, o README.md sempre vai estar disponível, acessível e visível nos repositórios remotos.
 
-lembrei do comando: git commi
+lembrei do comando: git commit
+lembrei do comando: git status
