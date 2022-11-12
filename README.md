@@ -7,3 +7,5 @@ A extensão .md representa um arquivo Markdown, uma linguagem de marcação  com
 entre outros).
 
 Por padrão, o README.md sempre vai estar disponível, acessível e visível nos repositórios remotos.
+
+lembrei do comando: git commi
